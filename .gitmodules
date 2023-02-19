@@ -1,4 +1,6 @@
 [submodule "back"]
 	path = back
+	url = https://github.com/EgorkaAaA/sber/project
 [submodule "client"]
 	path = client
+	url = https://github.com/EgorkaAaA/sber/project
