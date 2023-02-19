@@ -17,7 +17,7 @@
 ### Команда запуска:
 
 ```
-java -jar .\client-0.0.1-SNAPSHOT.jar --THREAD=2 --AIRPORTS_COUNT=10
+java -jar client-0.0.1-SNAPSHOT.jar --THREAD=2 --AIRPORTS_COUNT=10
 ```
 
 ### Ссылка на jar: [ссылка](https://drive.google.com/file/d/146SpQpNW_3KhfvQ2T-mnQ4Xa8Yjanv-v/view?usp=share_link)
